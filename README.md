@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-![](Imagines/Brian.png)
+![](Imagenes/Brian.png)
 
 ## 🤓 Course overview and learning outcomes 
 
